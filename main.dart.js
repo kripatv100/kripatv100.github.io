@@ -84174,7 +84174,7 @@ $2(a,b){return b.c.bk(0,a.c)},
 $S:502}
 A.L3.prototype={
 F(a){var s=null,r=A.uk(s,A.avz(B.a9,s,s,B.tr),!0)
-return new A.yY(new A.MR(s),A.aN(["add-transaction",new A.a99()],t.N,t.Ab),"Flutter Demo",r,s)}}
+return new A.yY(new A.MR(s),A.aN(["add-transaction",new A.a99()],t.N,t.Ab),"Money Manager",r,s)}}
 A.a99.prototype={
 $1(a){return B.LK},
 $S:503}
