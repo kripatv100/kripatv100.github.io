@@ -1,2 +1,2 @@
-#Sample money_manager
+# Sample money_manager
 
