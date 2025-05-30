@@ -1,4 +1,4 @@
-# Sample money_manager 
+# Simple money_manager 
 https://kripatv100.github.io/
 
 ## Add categories of income and expense
